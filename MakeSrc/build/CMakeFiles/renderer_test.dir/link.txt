@@ -1,0 +1,1 @@
+/usr/bin/c++     CMakeFiles/renderer_test.dir/src/main.cpp.o  -o renderer_test 

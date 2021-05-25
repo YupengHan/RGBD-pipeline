@@ -1,0 +1,4 @@
+/home/yupeng/RGBD-pipeline/MakeSrc/build/CMakeFiles/edit_cache.dir
+/home/yupeng/RGBD-pipeline/MakeSrc/build/CMakeFiles/cuda_renderer.dir
+/home/yupeng/RGBD-pipeline/MakeSrc/build/CMakeFiles/rebuild_cache.dir
+/home/yupeng/RGBD-pipeline/MakeSrc/build/CMakeFiles/renderer_test.dir

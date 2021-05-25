@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcuda_renderer.a  CMakeFiles/cuda_renderer.dir/src/main.cpp.o
+/usr/bin/ranlib libcuda_renderer.a
